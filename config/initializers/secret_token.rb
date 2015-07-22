@@ -1,0 +1,1 @@
+EmberCrmRails::Application.config.secret_key_base = 'e7420c65e359a0abcfe78fab886e0bf43df66b3f2317b9eb6a7d33c830b0e9a6fcad993d9df05cb3ecf18ac93c959761d81732263e4f612a505cee48aeb11123'
